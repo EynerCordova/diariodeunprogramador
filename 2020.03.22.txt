@@ -1,0 +1,5 @@
+Este es un pequeño diario que he decidio comenzar a hacer y subir a github.
+Soy un programador de 20 años, con aproximadamente 8 años de experiencia, sin embargo he programado desde pequeño.
+Actualmente dirijo una compañia de software ERP y CRM en la nube que busco hacer la más grande del mundo.
+El dia de hoy me dediqué a estudiar javascript y realizar el seguimiento de tareas dentro de la empresa, todo va viento en popa aún con el problema del coronavirus.
+Esperamos que este problema con el tiempo vaya disminuyendo la cantidad de infectados o que al menos no mute.
