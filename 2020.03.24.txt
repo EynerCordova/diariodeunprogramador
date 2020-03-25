@@ -3,3 +3,5 @@ Debo comenzar a manejar una agenda diaria con la finalidad que pueda manejar un 
 Actualmente estamos usando Jira dentro de la empresa pero esperemos que todo vaya viento en popa con todas estas nuevas tecnologias que estamos adoptando.
 Todo parece ir bien, sin problemas. El día de hoy hubieron muchas actualizaciones y estoy durmiendo poco debido a la gran cantidad de actividades que tenemos por hacer.
 No entiendo como haré en la universidad, supongo que se sabrá con el tiempo. Seguiré actualizando.
+Por cierto que al parecer hubieron más actualizaciones dentro de git.
+Estaba pensando que esto podria afectar sobre mis documentos actuales pero al parecer no es así.
