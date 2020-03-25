@@ -1,0 +1,5 @@
+Bueno, solo para mantener al dia el diario de todos los días que tengo.
+El dia de hoy realizamos diversas actualizaciones con la finalidad de mejorar la calidad dentro del software.
+Una de mis mayores motivaciones al realizar esto es no olvidar mis conocimientos en git o github (Por el momento no usamos dentro de la empresa esto pero bueno)
+En las subsecuentes pienso que debo crear un propio blog donde subir mis propios conocimientos.
+Ya sea que lo lea alguien o que no, me interesaria hacerlo.
